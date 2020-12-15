@@ -1,16 +1,10 @@
-hello.txt
-hello World Test 123
+Hello Freya.com
+How are you doing
 
 
-Hello 123 her for fiv six 
 
-This is updated in the Rik2020 branch
+why are you so naughty? Hey You!!!
 
-...now updating again after merging to master
+you are naughty 
 
-This is edited on branch name "NEWBRANCH"
-
-...again creating new linne from newbranch 
-hello123456
-
-hello hello hello
+I am not naughty you are super duper naughty
